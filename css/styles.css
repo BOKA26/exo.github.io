@@ -1,0 +1,345 @@
+
+body{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     background-color:#fff;
+     font-size: 20px;
+     
+   }
+    /* ******** menu******** */
+   .menu{
+      position: fixed;
+        display: flex;
+        border: raduo;
+        width: 100%;
+      overflow: hidden;
+      opacity: 0.9;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #FFFAE1;
+        height: 50px ;
+        
+   }
+    /* ****** les liens ******** */
+   a{
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: uppercase;
+
+   }
+   .k3{
+      color: black;
+   }
+
+   .k4{
+     color: black;
+  }
+  .k5{
+     color: black;
+  }
+  .k6:hover{
+    border: none;
+     background-color: red;
+     color: #FFFAE1;
+     cursor: pointer;
+     transition: 0.3s ease-in-out;
+  }
+   /* ******** le corps******** */
+  
+  .gauche{
+       float: left;
+       background-color: #fff;
+      
+  }
+     h1{
+      text-transform: capitalize;
+     }
+  div.droite{
+
+      float: right;
+      display: flexs;
+      float: right;
+      cursor: zoom-out;
+      margin-right: 180px;
+      padding: 80px;
+      background-color: #fff;
+ }
+ .btn:hover{
+     
+   border: none;
+      background-color: red;
+      color: #FFFAE1;
+      cursor: pointer;
+      transition: 0.3s ease-in-out;
+      }
+       /* ********footer ******** */
+  footer{
+       background-color:#524A3A;
+       color: #FFFAE1;
+       padding: 100PX  10PX  0;
+       text-align: center;
+       clear: both;
+     }
+     #partie1{
+          display: flex;
+        border: raduo;
+        width: 100%;
+      overflow: hidden;
+      opacity: 0.9;
+        align-items: center;
+        justify-content: space-between;
+        color: #FFFAE1;
+        height: 50px ;
+     }
+  .bte:hover{
+     background-color: red;
+     color: #FFFAE1;
+     cursor: pointer;
+     transition: 0.3s ease-in-out;
+     border: none;
+  }
+  /* ********  footer CONTACTE ******** */
+  
+   form>input,textarea,button{
+     border:none;
+     width:55%;
+     padding:15px 10px;
+     margin:1px 0;
+     font-size:1.2em;
+     border-radius:8px;
+      
+     
+  }
+  h2{
+     font-size: 20px;
+     text-transform: uppercase;
+
+  }
+  div{
+     color: #000;
+     color: #fff;
+     cursor: ;
+     content: ;
+     clear: ;
+     clip: ;
+     clip-path: ;
+     column-gap: ;
+     contain: ;
+     column-count: ;
+     counter-increment: ;
+     counter-reset: ;
+     caret-color: ;
+     caption-side: ;
+     color-scheme: ;
+     column-rule: ;
+     column-width: ;
+     columns: ;
+     content-visibility: ;
+     clip-rule: ;
+     color-adjust: ;
+     color-interpolation-filters: ;
+     column-fill: ;
+     column-rule-color: ;
+     column-rule: ;
+     column-rule-style: ;
+     column-rule-width: ;
+     
+     column-span: ;
+     counter-set: ;
+     will-change: ;
+     grid-column: ;
+     stop-color: ;
+     grid-column-end: ;
+     grid-column-start: ;
+     line-clamp: ;
+     mask-clip: ;
+     mask-composite: ;
+     text-combine-upright: ;
+     -moz-column-count: ;
+     -moz-column-rule: ;
+     -moz-column-gap: ;
+     -moz-column-rule-color: ;
+     -moz-column-rule-style: ;
+     -moz-column-rule-width: ;
+     -moz-column-width: ;
+     -moz-columns: ;
+     align-content: ;
+     empty-cells: ;
+     flood-color: ;
+     place-content: ;
+     border-color: ;
+     border-collapse: ;
+     accent-color: ;
+     forced-color-adjust: ;
+     justify-content: ;
+     outline-color: ;
+     -webkit-column-break-after: ;
+     -webkit-column-break-before: ;
+     -webkit-column-break-inside: ;
+     -webkit-column-count: ;
+     -webkit-column-gap: ;
+     -webkit-column-rule: ;
+     -webkit-column-rule-color: ;
+      -webkit-column-span: ; 
+      -webkit-column-width: ;
+     -webkit-columns: ;
+     lighting-color: ;
+     overflow-clip-margin: ;
+      -ms-grid-column-align: ;
+      -ms-grid-column: ;
+      -ms-text-combine-horizontal: ;
+      grid-auto-columns: ;
+       scrollbar-color: ;
+      background-color: ;
+      border-top-color: ;
+      background-clip: ;
+     border-left-color: ;
+      border-right-color: ;
+       border-block-color: ;
+      font-variant-caps: ;
+      -webkit-line-clamp: ;
+      border-bottom-color: ;
+      grid-template-columns: ;
+      border-inline-color: ;
+      text-emphasis-color: ;
+      scrollbar-face-color: ;
+      scrollbar-base-color: ;
+      -webkit-margin-collapse: ;
+      text-decoration-color: ;
+      scrollbar-arrow-color: ;
+      scrollbar-track-color: ;
+      -ms-layout-grid-char: ;
+      css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     \\
+  }
+  
